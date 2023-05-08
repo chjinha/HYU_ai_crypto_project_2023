@@ -1,2 +1,2 @@
 # HYU_ai_crypto_project_2023
-# test_for_github
+# csv 파일은 master branch에 있습니다!
